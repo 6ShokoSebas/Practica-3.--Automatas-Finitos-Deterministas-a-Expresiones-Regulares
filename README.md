@@ -26,7 +26,7 @@ Además, se complementa con el uso de **JFLAP** para la conversión de autómata
 - **Yoltic Isaí Velázquez Ramos** — 2025230228  
 
 📍 *ESCOM - Instituto Politécnico Nacional*  
-📅 *Fecha: 13 de abril de 2026*  
+📅 *Fecha: 20 de abril de 2026*  
 
 ---
 
